@@ -1,10 +1,11 @@
 # geminichatapp
 
-A new Flutter project.
+A AI Chat made in Flutter using Googgle's Gemini API.
 
-## Getting Started
+## Documentation about Gemini API.
 
-This project is a starting point for a Flutter application.
+You can get Gemini API key by following instruction on this page :
+
 
 A few resources to get you started if this is your first Flutter project:
 
