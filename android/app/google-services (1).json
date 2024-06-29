@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920985090335",
+    "project_id": "gemini-chat-161a7",
+    "storage_bucket": "gemini-chat-161a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920985090335:android:0785cd80bc55c1d33f982a",
+        "android_client_info": {
+          "package_name": "com.kartikey.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEnVmf85IhxQT0pYygSwlwCLof4a2CaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
