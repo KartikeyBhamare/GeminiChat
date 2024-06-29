@@ -1,6 +1,6 @@
 # geminichatapp
 
-An AI Chat made in Flutter using Googgle's Gemini API.
+An AI Chat App made in Flutter using Googgle's Gemini API.
 
 ## Documentation about Gemini API.
 
